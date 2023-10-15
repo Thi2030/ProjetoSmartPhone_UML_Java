@@ -14,4 +14,5 @@ Reprodutor Musicial, Aparelho Telefônico e Navegador na Internet. Em seguida cr
 - [x]  Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
-![DiagramaClasse_Smartphone](https://github.com/Thi2030/Uml_DiagramaClasse_Smartphone/assets/95144921/ce737b71-92dc-4e0e-9abe-91a7a7abdb99)
+file:///home/thiago/Documentos/java/Dio-java-basico/vsCode_JAVA/ProjetoDio/ProjetoSmartPhone_UML_Java/DiagramaClasse_Smartphone.drawio.png
+
