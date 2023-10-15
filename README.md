@@ -13,6 +13,7 @@ Reprodutor Musicial, Aparelho Telefônico e Navegador na Internet. Em seguida cr
 - [x]  Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - [x]  Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
+![DiagramaClasse_Smartphone drawio](https://github.com/Thi2030/ProjetoSmartPhone_UML_Java/assets/95144921/8dd0934f-a581-442c-9d67-f371c88d3c16)
 
-file:///home/thiago/Documentos/java/Dio-java-basico/vsCode_JAVA/ProjetoDio/ProjetoSmartPhone_UML_Java/DiagramaClasse_Smartphone.drawio.png
+
 
